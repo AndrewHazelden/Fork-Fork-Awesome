@@ -1,6 +1,6 @@
-# Fork Awesome
+# Fork Fork Awesome
 
-_A fork of the iconic font and CSS toolkit, Font Awesome_
+_A fork of the iconic font and CSS toolkit, Fork Awesome_
 
 [![npm-badge]][npm-link] [![all-contrib]](CONTRIBUTORS.md) [![jsdeliver-badge]][jsdeliver-link] [![cdnjs-badge]][cdnjs-link] [![build-status-badge]][build-status-link] [![matrix-badge]][matrix-link]
 
