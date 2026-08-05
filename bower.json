@@ -1,8 +1,8 @@
 {
-  "name": "fork-awesome",
-  "description": "Fork Awesome",
+  "name": "fork-fork-awesome",
+  "description": "Fork Fork Awesome",
   "keywords": ["font", "fork", "awesome", "icon" ],
-  "homepage": "http://forkawesome.github.io/Fork-Awesome",
+  "homepage": "https://github.com/AndrewHazelden/Fork-Fork-Awesome",
   "dependencies": {},
   "devDependencies": {},
   "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
