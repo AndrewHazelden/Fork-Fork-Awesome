@@ -1,6 +1,12 @@
 # Changelog
 
+## Changelog of Fork Fork Awesome
+
+- v2.0
+    - Needed Fork awesome features for a new project. So forked the deactivated repo.
+
 ## Changelog of Fork awesome
+
 - v1.2
   - Added icons: Wire, Tor project, volume mute, ringing bell & outlined ringing bell, HAL, Jupytr, Julia, research gate, Open Collective, ClassicPress, ORCID, funkwhale and 38 more. 🎉
   - Updated Joplin icon.
